@@ -21,10 +21,21 @@ that are useful wherever people happen to be. Main product swiftmc.com
 - Share selected projects with the open-source community
 - Collaborate across disciplines and locations
 
-## Projects
+## Minecraft Plugins
 
-Our first projects are currently taking shape. They will appear here
-as soon as they are ready to share.
+Custom plugins and server software for our Minecraft projects.
+
+**Core Plugins:**
+
+Projects will be listed here as they become available.
+
+**Server Software:**
+
+Projects will be listed here as they become available.
+
+**Utilities:**
+
+- [crawl2gsit](https://github.com/NullNomads/crawl2gsit) - Double-sneak-to-crawl integration for GSit *(by wioletowa)*
 
 ## Work with us
 
