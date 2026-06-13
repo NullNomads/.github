@@ -5,7 +5,7 @@
 **Building beyond borders.**
 
 We are an independent team exploring software, digital products, and ideas
-that are useful wherever people happen to be.
+that are useful wherever people happen to be. Main product swiftmc.com
 
 [![Location](https://img.shields.io/badge/base-Sweden-006AA7?style=flat-square)](https://github.com/NullNomads)
 [![GitHub](https://img.shields.io/badge/follow-NullNomads-181717?style=flat-square&logo=github)](https://github.com/NullNomads)
@@ -19,11 +19,11 @@ that are useful wherever people happen to be.
 - Build focused tools and digital products
 - Experiment with new technologies and practical ideas
 - Share selected projects with the open-source community
-- Collaborate across disciplines, locations, and time zones
+- Collaborate across disciplines and locations
 
 ## Projects
 
-Our first public projects are currently taking shape. They will appear here
+Our first projects are currently taking shape. They will appear here
 as soon as they are ready to share.
 
 ## Work with us
