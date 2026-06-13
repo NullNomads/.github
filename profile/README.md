@@ -25,15 +25,15 @@ that are useful wherever people happen to be. Main product swiftmc.com
 
 Custom plugins and server software for our Minecraft projects.
 
-**Core Plugins:**
+### Core Plugins:
 
 Projects will be listed here as they become available.
 
-**Server Software:**
+### Server Software:
 
 Projects will be listed here as they become available.
 
-**Utilities:**
+### Utilities:
 
 - [crawl2gsit](https://github.com/NullNomads/crawl2gsit) - Double-sneak-to-crawl integration for GSit *(by wioletowa)*
 
