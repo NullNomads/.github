@@ -27,7 +27,7 @@ Custom plugins and server software for our Minecraft projects.
 
 ### Core Plugins:
 
-Projects will be listed here as they become available.
+- [NullNomadsWorldgen](https://github.com/NullNomads/NullNomadsWorldgen) - standalone Paper plugin for vanilla-like Overworld generation.
 
 ### Server Software:
 
