@@ -27,7 +27,7 @@ Custom plugins and server software for our Minecraft projects.
 
 ### Core Plugins:
 
-- [NullNomadsStructures]([https://github.com/NullNomads/NullNomadsWorldgen](https://github.com/NullNomads/NullNomadsStructures)) - Data-driven, native Minecraft dungeons for Paper servers running Tectonic.
+- [NullNomadsStructures](https://github.com/NullNomads/NullNomadsStructures) - Data-driven, native Minecraft dungeons for Paper servers running Tectonic.
 
 ### Server Software:
 
