@@ -38,7 +38,6 @@ Projects will be listed here as they become available.
 
 ### Utilities:
 
-- [crawl2gsit](https://github.com/NullNomads/crawl2gsit) - Double-sneak-to-crawl integration for GSit *(by wioletowa)*
 - [NullAnnounce](https://github.com/NullNomads/NullAnnounce) - Плагин на объявления на картах *(by wioletowa)*.
 - [NullMail](https://github.com/NullNomads/NullMail) - Система писем *(by wioletowa)*.
 - [NullCharacter](https://github.com/NullNomads/NullCharacter) *(by wioletowa)*.
