@@ -30,7 +30,7 @@ Custom plugins and server software for our Minecraft projects.
 - [NullNomadsStructures](https://github.com/NullNomads/NullNomadsStructures) - Data-driven, native Minecraft dungeons for Paper servers running Tectonic *(by frierr-tech)*.
 - [NullGeology](https://github.com/NullNomads/NullGeology) - Deterministic geological ore generation for the NullNomads Swift server *(by frierr-tech)*.
 - [NullBags](https://github.com/NullNomads/NullBags) *(by wioletowa)*.
-- [NullChat](https://github.com/NullNomads/NullChat) - Локальный РП чат *(by wioletowa)*.
+- [NullChat](https://github.com/NullNomads/NullChat) - Local roleplay chat *(by wioletowa)*.
 
 ### Server Software:
 
@@ -38,12 +38,12 @@ Projects will be listed here as they become available.
 
 ### Utilities:
 
-- [NullAnnounce](https://github.com/NullNomads/NullAnnounce) - Плагин на объявления на картах *(by wioletowa)*.
-- [NullMail](https://github.com/NullNomads/NullMail) - Система писем *(by wioletowa)*.
+- [NullAnnounce](https://github.com/NullNomads/NullAnnounce) - Map-based announcement plugin *(by wioletowa)*.
+- [NullMail](https://github.com/NullNomads/NullMail) - Mail system *(by wioletowa)*.
 - [NullCharacter](https://github.com/NullNomads/NullCharacter) *(by wioletowa)*.
-- [NullSleep](https://github.com/NullNomads/NullSleep) - Спят усталые игрушки... *(by wioletowa)*.
+- [NullSleep](https://github.com/NullNomads/NullSleep) - Tired toys are sleeping... *(by wioletowa)*.
 - [NullJump](https://github.com/NullNomads/NullJump) - Sprint-jump fatigue for Paper 1.21.x - bunny-hop too long and you stumble into a GSit crawl *(by wioletowa)*.
-- [NullSex](https://github.com/NullNomads/NullSex) - Самый Важный Плагин на серверах *(by wioletowa)*.
+- [NullSex](https://github.com/NullNomads/NullSex) - The most important plugin on the servers *(by wioletowa)*.
 
 ## Work with us
 
